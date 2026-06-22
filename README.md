@@ -32,5 +32,5 @@ Sleep
 OpenVariableRuntimeDxe.efi (needed for fake NVRAM and makes the computer restart instantly when loading into boot picker)
 
 ![Desktop](desktop.png)
-![About This Mac](aboutthismac.png)
+![About This Mac](aboutmac.png)
 ![hyfetch](hyfetch.png)
