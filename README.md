@@ -1,6 +1,9 @@
 # HP-Pavilion-Gaming-15-ec1073dx-EFI
 OpenCore EFI for HP Pavilion Gaming 15 Laptop ec1073dx
 
+Currently using MacPro6,1 ("Trashcan") SMBIOS
+Use either MacBookPro16,3 or MacBookPro16,2 SMBIOS for proper battery status
+
 Specs:
 AMD Ryzen 5 4600H
 8GB of RAM (DDR4 3200MHz)
@@ -28,5 +31,6 @@ Any version above Catalina (HP BIOS is screwy with NVRAM on OC and Apple updated
 Sleep
 OpenVariableRuntimeDxe.efi (needed for fake NVRAM and makes the computer restart instantly when loading into boot picker)
 
-
-
+![Desktop](desktop.png)
+![About This Mac](aboutthismac.png)
+![hyfetch](hyfetch.png)
